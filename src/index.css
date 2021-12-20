@@ -15,10 +15,21 @@ body {
 
 h1 {
   font-size: 3.5rem;
+  margin: 1rem 0 0 0;
 }
 @media screen and (max-width: 768px) {
   h1 {
     font-size: 2rem;
+  }
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0.5rem 0 0 0;
+}
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 1.5rem;
   }
 }
 
