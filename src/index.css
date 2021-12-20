@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #e4d500;
+  color: rgba(0, 0, 0, 0.95);
   overflow-x: hidden;
 }
 #root {
@@ -14,11 +14,11 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3.5rem;
 }
 @media screen and (max-width: 768px) {
   h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
 
@@ -93,7 +93,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #af6709;
 }
 
 .member-page form .card > div {
